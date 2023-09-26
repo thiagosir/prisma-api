@@ -22,3 +22,8 @@ docker-compose up --build
 ```
 
 Após a execução do comando acima o servidor estará em execução no endereço `http://localhost:3000`.
+
+
+### Para acessar a documentação da API 
+
+Rode a aplicação de acordo com os comandos descritos acima e acesse a rota `http://localhost:3000/api`
